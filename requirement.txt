@@ -1,0 +1,7 @@
+gradio==4.36.1
+firebase-admin==6.5.0
+pandas==2.2.2
+openpyxl==3.1.2
+python-dotenv==1.0.1
+smtplib
+email
